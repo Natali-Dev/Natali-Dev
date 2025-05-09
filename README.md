@@ -28,7 +28,6 @@ I am a solutions-driven, meticulous, and positive person with a passion for IT. 
 | [Labb_2] | School task in python with focus on pandas, data processing and ploting |
 | [Data_Engineering] | DLT, DBT, Streamlit project |
 
-Links:  
 [Labb_1]: https://github.com/Natali-Dev/Labb_1.git      
 [Labb_2]: https://github.com/Natali-Dev/Labb_2.git  
 [C#]: https://github.com/Natali-Dev/Csharp.git  
