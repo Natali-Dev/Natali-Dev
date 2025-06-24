@@ -26,12 +26,12 @@ I am a solutions-driven, meticulous, and positive person with a passion for IT. 
 | [C#] | A restaurant point-of-sale system where you can open a table, take orders, process payments, then close the table and print a receipt. Developed in a group with classmates. |
 | [Labb_1] | School task in python with focus on fundamentals, file-reading, for-loops, dictionaries, list comprehentions, string methods, and plotting |
 | [Labb_2] | School task in python with focus on pandas, data processing and ploting |
-| [Data_Engineering] | DLT, DBT, Streamlit project |
+| [Data_Engineering] | DLT, DBT, Streamlit, Dagster project. Developed in a group with classmates. |
 
 [Labb_1]: https://github.com/Natali-Dev/Labb_1.git      
 [Labb_2]: https://github.com/Natali-Dev/Labb_2.git  
 [C#]: https://github.com/Natali-Dev/Csharp.git  
-[Data_Engineering]: https://github.com/Natali-Dev/07_data_engineering.git   
+[Data_Engineering]: https://github.com/Natali-Dev/AI_2_group_project.git  
 
 ## Experience
 
