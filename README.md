@@ -7,15 +7,18 @@ I am a solutions-driven, meticulous, and positive person with a passion for IT. 
 ## My courses :briefcase:
 | Course                           |        Description  | Skills                                                                |
 | ------------------------------------- | --------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
-| OOP Intro / OOP grund            | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control. | C#, OOP, Git                                                          |
-| Databaser                        | Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.                                                                                    | SQL, Dapper, Data Modeling                                            |
-| Agil Projektledning              | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning.                                                                           | Scrum, Kanban, GitHub-Projects                                        |
+| OOP Intro / OOP basic            | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control. | C#, OOP, Git                                                          |
+| Databases                        | Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.                                                                                    | SQL, Dapper, Data Modeling                                            |
+| Agile Projectmanagment              | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning.                                                                           | Scrum, Kanban, GitHub-Projects                                        |
 | AI 1 - Python                    | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data storytelling, dashboards and KPIs.      | Python, Pandas, Matplotlib, NumPy, Streamlit                          |
-| AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and TensorFlow.                                     | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
+| AI 2 - Data Engineering | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and TensorFlow.                                     | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
+
+## Current Course
+- OOP Advanced 1. Classic ML, regression and classification. Pydantic, OOP for data, FastAPI. PydanticAI, RAGs, and AI agents. 
+
 ## Upcoming Courses
-- OOP Avancerad 1      
 - LiA 1 
-- OOP Avancerad 2 
+- OOP Advanced 2 
 - LiA 2 
 
 ## Projects :computer:
@@ -25,7 +28,7 @@ I am a solutions-driven, meticulous, and positive person with a passion for IT. 
 | ----------- | --------------- |
 | [C#] | A restaurant point-of-sale system where you can open a table, take orders, process payments, then close the table and print a receipt. Developed in a group with classmates. |
 | [Labb_1] | School task in python with focus on fundamentals, file-reading, for-loops, dictionaries, list comprehentions, string methods, and plotting |
-| [Labb_2] | School task in python with focus on pandas, data processing and ploting |
+| [Labb_2] | School task in python with focus on pandas, data processing and plotting |
 | [Data_Engineering] | DLT, DBT, Streamlit, Dagster project. Developed in a group with classmates. |
 
 [Labb_1]: https://github.com/Natali-Dev/Labb_1.git      
