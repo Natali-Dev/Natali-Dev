@@ -4,6 +4,7 @@
 ## About me
 I am a solutions-driven, meticulous, and positive person with a passion for IT. My background in hospitality, team leadership, administration, and systems has given me a broad and adaptable skill set. I learn new technologies rapidly and thrive on working with multiple projects under pressure. I am currently studying programming with an AI focus at NBI/Handelsakademien and are seeking a LIA-position for autumn 2025.
 
+<!--
 ## My courses :briefcase:
 | Course                           |        Description  | Skills                                                                |
 | ------------------------------------- | --------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
@@ -20,7 +21,7 @@ I am a solutions-driven, meticulous, and positive person with a passion for IT. 
 - LiA 1 
 - OOP Advanced 2 
 - LiA 2 
-
+-->
 ## Projects :computer:
 
 
@@ -30,12 +31,15 @@ I am a solutions-driven, meticulous, and positive person with a passion for IT. 
 | [Labb_1] | School task in python with focus on fundamentals, file-reading, for-loops, dictionaries, list comprehentions, string methods, and plotting |
 | [Labb_2] | School task in python with focus on pandas, data processing and plotting |
 | [Data_Engineering] | DLT, DBT, Streamlit, Dagster project. Developed in a group with classmates. |
+| [Taxi_Prediction] | A project for predicting. The backend and frontend will communicate thru an API-layer to make the components decoupled. The application will serve a ML-model and make relevant predictions. |
+| [Personal_Agent] | A diary with a voice assistant that uses FastAPI, LanceDB for RAG, and OpenAI to provide analysis and data-driven well-being insights. |
 
 [Labb_1]: https://github.com/Natali-Dev/Labb_1.git      
 [Labb_2]: https://github.com/Natali-Dev/Labb_2.git  
 [C#]: https://github.com/Natali-Dev/Csharp.git  
 [Data_Engineering]: https://github.com/Natali-Dev/AI_2_group_project.git  
-
+[Taxi_Prediction]: https://github.com/Natali-Dev/taxi-prediction-fullstack-Natali.git
+[Personal_Agent]: https://github.com/glennart8/personal_agent.git
 ## Experience
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -57,7 +61,7 @@ I am a solutions-driven, meticulous, and positive person with a passion for IT. 
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-3B27C1?style=for-the-badge&logo=dagster&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 Contact me 📱
