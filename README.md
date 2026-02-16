@@ -2,7 +2,7 @@
 # Natali Harju
 
 ## About me
-I am a solutions-driven, meticulous, and positive person with a passion for IT. My background in hospitality, team leadership, administration, and systems has given me a broad and adaptable skill set. I learn new technologies rapidly and thrive on working with multiple projects under pressure. I am currently studying programming with an AI focus at NBI/Handelsakademien and are seeking a LIA-position for autumn 2025.
+I am a solutions-driven, meticulous, and positive person with a passion for IT. My background in hospitality, team leadership, administration, and systems has given me a broad and adaptable skill set. I learn new technologies rapidly and thrive on working with multiple projects under pressure. I am currently studying programming with an AI focus at NBI/Handelsakademien.
 
 <!--
 ## My courses :briefcase:
